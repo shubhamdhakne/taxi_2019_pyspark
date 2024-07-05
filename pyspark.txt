@@ -1,3 +1,5 @@
 1) Well come to PySpark --line 1 
 line 1 and 2 modify --line 2
 
+2) data frame read from .csv format
+spark.read.format('csv').option('header',True).load('s3://bucket_name/object_name/')
