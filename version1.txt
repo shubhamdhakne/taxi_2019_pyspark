@@ -1,3 +1,8 @@
 data engineer profile 
 project start from aglie methodology
+git use to version contral systeam
+aws use to cloud services
+python lang
+sql database 
+pyspark big data handle tool
 
